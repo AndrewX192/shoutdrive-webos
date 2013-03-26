@@ -1,0 +1,28 @@
+{
+    "id": "com.andrewx192.shoutdrive",
+    "version": "1.0.0",
+    "vendor": "AndrewX192",
+    "type": "web",
+    "main": "index.html",
+    "title": "ShoutDrive",
+    "icon": "icon.png",
+    "vendorurl": "http://andrewx192.com/",
+    "support": {
+        "email": {
+        "address": "andrew@andrewx192.com",
+        "subject": "Support"
+        },
+    "resources": [
+        {
+            "type": "scene",
+            "label": "Send Feedback",
+            "sceneName": "feedback"
+        },
+        {
+            "type": "web",
+            "label": "ShoutDRIVE Website",
+            "url": "http://www.shoutdrive.com"
+        }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+/*#NowPlayingText { float:left;}*/
+.nomargin { margin:0px !important;}
+.nopadding { padding:0px !important;}
+
+#ArtworkContainer { text-align:center;}
+
+.songlisttime { margin:0 0 0 10px !important; padding:0px !important;}
+.songlisttitle { font-size: 0.8em !important; margin:0 0 3px 10px !important; padding:0 !important;}
+palm-row-wrapper, .palm-row single, .label { padding-top:0px !important; margin-top:0px !important;  padding-bottom:0px !important; margin-bottom:0px !important;}/*
+.title { padding-top:0px !important; padding-bottom: 3px!important;}*/
+.dj-item { min-height:75px; overflow: auto !important;}
+.djnames { position:absolute; margin-left:75px !important;}
+.djheadshots {position:absolute; margin: 10px !important; padding:0px !important;}
+.djtiles { font-size: 0.8em !important; position:absolute; margin-left:65px !important; margin-top:7px !important; }
